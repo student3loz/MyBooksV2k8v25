@@ -6,3 +6,8 @@ h2 {
     color: #333;
     border-bottom: 2px solid #0056b3;
 }
+form {
+    width: 500px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
